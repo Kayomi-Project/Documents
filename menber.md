@@ -9,7 +9,7 @@
 |otty|WebD|OSX El Capitan|CPU:Corei5<br>RAM:8GB|Brackets|とりあえずwebを一生懸命勉強する！<br>WriterLighterとかブルーライトカットフィルターとか<br>今やってる途中のことあるから<br>そっちが最優先だけど時間と技術が許せばなんでもする|
 |はっぱ|WebD<br>Win用ソフト|Windows|CPU:Corei5<br>RAM:8GB|Brackets<br>VSCom,VSCode|力になれたらいいな…！<br>がんばろッ!|
 |こうしょう|WebD|Windwos8|CPU:Corei3<br>RAM:?|Sublime Text|共に頑張りましょう！|
-|レモン|WebP|Windows7|?|?|使えないザコですがヨロシクですww|
+|レモン|WebP|Windows7|CPU:Celeron<br>RAM:2GB|?|使えないザコですがヨロシクですww|
 |ごっちゃん!!|相談役|OSX El Caption|CPU:Corei5<br>RAM:8GB|Xcode,Eclipse<br>AndroidStudio<br>Intellij IDEA<br>Atom<br>その他もろもろ|開発には慣れてるけど<br>自分もしたいことあるから、<br>困ったとき召☆喚してもらったら助けに来る<br>テクニカルメンター的な役割に<br>なれたらなと思います。<br>簡単なことなら大体どの言語でも<br>答えられると思います<br>（JSとかはもっと詳しい方がいらっしゃるので<br>そちらにどうぞｗ）<br>複雑なことは<br>「Android,iPhone,Ruby」関連なら<br>行けるかもしれません。<br>まあ気軽にどうぞ〜。
 |とっすぃー|Android|Windows10|CPU:Corei7<br>RAM:8GB|JAVA(?)|ちょっとかじっただけのどしろーとなので<br>デバッグ、アイデア専門かと()<br>よろしゅーなあ(エセ京都弁 怒られる(((|
 |かっくん|iPhone|OSX El Caption|CPU:Corei5<br>RAM:8GB|Xcode|開発ド下手なので<br>外観作るくらいしかできませんがよろしく！<br>イーストカンパニーとしても協力したい|
